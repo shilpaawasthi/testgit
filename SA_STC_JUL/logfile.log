@@ -1,0 +1,788 @@
+2020-07-28 23:09:23,929 INFO  [Log] Initilaising..  
+2020-07-28 23:09:23,930 INFO  [Log] Checking test run mode 
+2020-07-28 23:09:23,930 INFO  [Log] Starting test 
+2020-07-28 23:09:23,932 INFO  [Log] Opening browser 
+2020-07-28 23:09:31,208 INFO  [Log] Navigating to Url 
+2020-07-28 23:28:34,764 INFO  [Log] Initilaising..  
+2020-07-28 23:28:34,765 INFO  [Log] Checking test run mode 
+2020-07-28 23:28:34,765 INFO  [Log] Starting test 
+2020-07-28 23:28:34,767 INFO  [Log] Opening browser 
+2020-07-28 23:28:41,971 INFO  [Log] Navigating to Url 
+2020-07-28 23:40:39,470 INFO  [Log] Initilaising..  
+2020-07-28 23:40:39,471 INFO  [Log] Checking test run mode 
+2020-07-28 23:40:39,471 INFO  [Log] Starting test 
+2020-07-28 23:40:39,474 INFO  [Log] Opening browser 
+2020-07-28 23:40:46,889 INFO  [Log] Navigating to Url 
+2020-07-29 00:06:01,499 INFO  [Log] Initilaising..  
+2020-07-29 00:06:01,501 INFO  [Log] Checking test run mode 
+2020-07-29 00:06:01,501 INFO  [Log] Starting test 
+2020-07-29 00:06:01,503 INFO  [Log] Opening browser 
+2020-07-29 00:06:09,242 INFO  [Log] Navigating to Url 
+2020-07-29 00:11:42,583 INFO  [Log] Initilaising..  
+2020-07-29 00:11:42,584 INFO  [Log] Checking test run mode 
+2020-07-29 00:11:42,584 INFO  [Log] Starting test 
+2020-07-29 00:11:42,586 INFO  [Log] Opening browser 
+2020-07-29 00:11:50,047 INFO  [Log] Navigating to Url 
+2020-07-29 00:20:41,573 INFO  [Log] Initilaising..  
+2020-07-29 00:20:41,574 INFO  [Log] Checking test run mode 
+2020-07-29 00:20:41,575 INFO  [Log] Starting test 
+2020-07-29 00:20:41,577 INFO  [Log] Opening browser 
+2020-07-29 00:20:49,728 INFO  [Log] Navigating to Url 
+2020-07-29 09:29:16,138 INFO  [Log] Initilaising..  
+2020-07-29 09:29:16,139 INFO  [Log] Checking test run mode 
+2020-07-29 09:29:16,139 INFO  [Log] Starting test 
+2020-07-29 09:29:16,141 INFO  [Log] Opening browser 
+2020-07-29 09:29:25,192 INFO  [Log] Navigating to Url 
+2020-07-29 22:31:18,626 INFO  [Log] Initilaising..  
+2020-07-29 22:31:18,638 INFO  [Log] Checking test run mode 
+2020-07-29 22:31:18,638 INFO  [Log] Starting test 
+2020-07-29 22:31:18,640 INFO  [Log] Opening browser 
+2020-07-29 22:31:25,701 INFO  [Log] Navigating to Url 
+2020-07-29 22:31:28,229 INFO  [Log] Initilaising..  
+2020-07-29 22:31:28,230 INFO  [Log] Checking test run mode 
+2020-07-29 22:31:28,230 INFO  [Log] Starting test 
+2020-07-29 22:31:28,230 INFO  [Log] Opening browser 
+2020-07-29 22:31:34,611 INFO  [Log] Navigating to Url 
+2020-07-29 22:47:19,320 INFO  [Log] Initilaising..  
+2020-07-29 22:47:19,322 INFO  [Log] Checking test run mode 
+2020-07-29 22:47:19,322 INFO  [Log] Starting test 
+2020-07-29 22:47:19,324 INFO  [Log] Opening browser 
+2020-07-29 22:47:26,348 INFO  [Log] Navigating to Url 
+2020-07-29 22:47:29,016 INFO  [Log] Initilaising..  
+2020-07-29 22:47:29,694 INFO  [Log] Typing in text 
+2020-07-29 22:47:32,192 INFO  [Log] Initilaising..  
+2020-07-29 22:47:32,192 INFO  [Log] Checking test run mode 
+2020-07-29 22:47:32,192 INFO  [Log] Starting test 
+2020-07-29 22:47:32,192 INFO  [Log] Opening browser 
+2020-07-29 22:47:38,656 INFO  [Log] Navigating to Url 
+2020-07-29 22:47:42,308 INFO  [Log] Initilaising..  
+2020-07-29 22:47:42,650 INFO  [Log] Typing in text 
+2020-07-29 22:49:57,589 INFO  [Log] Initilaising..  
+2020-07-29 22:49:57,590 INFO  [Log] Checking test run mode 
+2020-07-29 22:49:57,590 INFO  [Log] Starting test 
+2020-07-29 22:49:57,592 INFO  [Log] Opening browser 
+2020-07-29 22:50:04,653 INFO  [Log] Navigating to Url 
+2020-07-29 22:50:07,866 INFO  [Log] Initilaising..  
+2020-07-29 22:50:08,829 INFO  [Log] Typing in text 
+2020-07-29 22:50:11,067 INFO  [Log] Initilaising..  
+2020-07-29 22:50:11,067 INFO  [Log] Checking test run mode 
+2020-07-29 22:50:11,067 INFO  [Log] Starting test 
+2020-07-29 22:50:11,067 INFO  [Log] Opening browser 
+2020-07-29 22:50:17,925 INFO  [Log] Navigating to Url 
+2020-07-29 22:50:21,930 INFO  [Log] Initilaising..  
+2020-07-29 22:50:22,610 INFO  [Log] Typing in text 
+2020-07-29 22:51:24,256 INFO  [Log] Initilaising..  
+2020-07-29 22:51:24,259 INFO  [Log] Checking test run mode 
+2020-07-29 22:51:24,259 INFO  [Log] Starting test 
+2020-07-29 22:51:24,263 INFO  [Log] Opening browser 
+2020-07-29 22:51:31,515 INFO  [Log] Navigating to Url 
+2020-07-29 22:51:33,897 INFO  [Log] Initilaising..  
+2020-07-29 22:51:34,869 INFO  [Log] Typing in text 
+2020-07-29 22:51:37,055 INFO  [Log] Clicking element 
+2020-07-29 22:51:39,027 INFO  [Log] Initilaising..  
+2020-07-29 22:51:39,027 INFO  [Log] Checking test run mode 
+2020-07-29 22:51:39,027 INFO  [Log] Starting test 
+2020-07-29 22:51:39,028 INFO  [Log] Opening browser 
+2020-07-29 22:51:46,022 INFO  [Log] Navigating to Url 
+2020-07-29 22:51:47,205 INFO  [Log] Initilaising..  
+2020-07-29 22:56:45,857 INFO  [Log] Initilaising..  
+2020-07-29 22:56:45,858 INFO  [Log] Checking test run mode 
+2020-07-29 22:56:45,858 INFO  [Log] Starting test 
+2020-07-29 22:56:45,860 INFO  [Log] Opening browser 
+2020-07-29 22:56:52,823 INFO  [Log] Navigating to Url 
+2020-07-29 22:56:55,838 INFO  [Log] Initilaising..  
+2020-07-29 22:56:56,796 INFO  [Log] Typing in text 
+2020-07-29 22:56:59,847 INFO  [Log] Clicking element 
+2020-07-29 22:57:01,911 INFO  [Log] Initilaising..  
+2020-07-29 22:57:01,911 INFO  [Log] Checking test run mode 
+2020-07-29 22:57:01,911 INFO  [Log] Starting test 
+2020-07-29 22:57:01,911 INFO  [Log] Opening browser 
+2020-07-29 22:57:08,582 INFO  [Log] Navigating to Url 
+2020-07-29 22:57:14,440 INFO  [Log] Initilaising..  
+2020-07-29 22:57:15,242 INFO  [Log] Typing in text 
+2020-07-29 22:57:18,090 INFO  [Log] Clicking element 
+2020-07-29 23:05:26,194 INFO  [Log] Initilaising..  
+2020-07-29 23:05:26,195 INFO  [Log] Checking test run mode 
+2020-07-29 23:05:26,195 INFO  [Log] Starting test 
+2020-07-29 23:05:26,197 INFO  [Log] Opening browser 
+2020-07-29 23:05:33,284 INFO  [Log] Navigating to Url 
+2020-07-29 23:05:35,466 INFO  [Log] Initilaising..  
+2020-07-29 23:05:36,843 INFO  [Log] Typing in text 
+2020-07-29 23:05:39,760 INFO  [Log] Clicking element 
+2020-07-29 23:07:53,755 INFO  [Log] Initilaising..  
+2020-07-29 23:07:53,757 INFO  [Log] Checking test run mode 
+2020-07-29 23:07:53,757 INFO  [Log] Starting test 
+2020-07-29 23:07:53,759 INFO  [Log] Opening browser 
+2020-07-29 23:08:00,987 INFO  [Log] Navigating to Url 
+2020-07-29 23:08:03,792 INFO  [Log] Initilaising..  
+2020-07-29 23:08:04,209 INFO  [Log] Typing in text 
+2020-07-29 23:08:06,465 INFO  [Log] Clicking element 
+2020-07-29 23:09:49,948 INFO  [Log] Initilaising..  
+2020-07-29 23:09:49,950 INFO  [Log] Checking test run mode 
+2020-07-29 23:09:49,950 INFO  [Log] Starting test 
+2020-07-29 23:09:49,953 INFO  [Log] Opening browser 
+2020-07-29 23:09:57,671 INFO  [Log] Navigating to Url 
+2020-07-29 23:10:02,074 INFO  [Log] Initilaising..  
+2020-07-29 23:10:03,110 INFO  [Log] Typing in text 
+2020-07-29 23:10:07,823 INFO  [Log] Clicking element 
+2020-07-29 23:10:09,484 INFO  [Log] Reading label 
+2020-07-29 23:10:19,548 ERROR [Log] assertion failed 
+2020-07-29 23:10:19,548 INFO  [Log] Closing browser 
+2020-07-29 23:11:20,182 INFO  [Log] Initilaising..  
+2020-07-29 23:11:20,182 INFO  [Log] Checking test run mode 
+2020-07-29 23:11:20,182 INFO  [Log] Starting test 
+2020-07-29 23:11:20,182 INFO  [Log] Opening browser 
+2020-07-29 23:11:27,434 INFO  [Log] Navigating to Url 
+2020-07-29 23:11:30,156 INFO  [Log] Initilaising..  
+2020-07-29 23:11:31,696 INFO  [Log] Typing in text 
+2020-07-29 23:11:35,404 INFO  [Log] Clicking element 
+2020-07-29 23:11:36,026 INFO  [Log] Reading label 
+2020-07-29 23:11:38,285 INFO  [Log] Sign in assertion passed 
+2020-07-29 23:11:38,285 INFO  [Log] Closing browser 
+2020-07-30 15:36:17,565 INFO  [Log] Initilaising..  
+2020-07-30 15:36:17,565 INFO  [Log] Checking test run mode 
+2020-07-30 15:36:17,565 INFO  [Log] Starting test 
+2020-07-30 15:36:17,565 INFO  [Log] Opening browser 
+2020-07-30 15:36:24,732 INFO  [Log] Navigating to Url 
+2020-07-30 15:36:32,678 INFO  [Log] Initilaising..  
+2020-07-30 15:36:32,805 INFO  [Log] Typing in text 
+2020-07-30 15:36:34,989 INFO  [Log] Clicking element 
+2020-07-30 15:39:34,547 INFO  [Log] Initilaising..  
+2020-07-30 15:39:34,547 INFO  [Log] Checking test run mode 
+2020-07-30 15:39:34,547 INFO  [Log] Starting test 
+2020-07-30 15:39:34,547 INFO  [Log] Opening browser 
+2020-07-30 15:39:41,619 INFO  [Log] Navigating to Url 
+2020-07-30 15:39:45,836 INFO  [Log] Initilaising..  
+2020-07-30 15:39:46,971 INFO  [Log] Typing in text 
+2020-07-30 15:39:49,840 INFO  [Log] Clicking element 
+2020-07-30 15:58:19,595 INFO  [Log] Initilaising..  
+2020-07-30 15:58:19,595 INFO  [Log] Checking test run mode 
+2020-07-30 15:58:19,595 INFO  [Log] Starting test 
+2020-07-30 15:58:19,603 INFO  [Log] Opening browser 
+2020-07-30 15:58:26,716 INFO  [Log] Navigating to Url 
+2020-07-30 15:58:28,946 INFO  [Log] Initilaising..  
+2020-07-30 15:58:30,080 INFO  [Log] Typing in text 
+2020-07-30 15:58:32,655 INFO  [Log] Clicking element 
+2020-07-30 15:58:33,190 INFO  [Log] Reading label 
+2020-07-30 15:58:36,707 INFO  [Log] Clicking element 
+2020-07-30 15:58:37,326 INFO  [Log] Reading label 
+2020-07-30 15:58:41,153 INFO  [Log] Clicking element 
+2020-07-30 16:12:13,363 INFO  [Log] Initilaising..  
+2020-07-30 16:12:13,363 INFO  [Log] Checking test run mode 
+2020-07-30 16:12:13,363 INFO  [Log] Starting test 
+2020-07-30 16:12:13,363 INFO  [Log] Opening browser 
+2020-07-30 16:12:20,495 INFO  [Log] Navigating to Url 
+2020-07-30 16:12:22,601 INFO  [Log] Initilaising..  
+2020-07-30 16:12:23,274 INFO  [Log] Typing in text 
+2020-07-30 16:12:25,574 INFO  [Log] Clicking element 
+2020-07-30 16:12:26,919 INFO  [Log] Reading label 
+2020-07-30 16:12:30,286 INFO  [Log] Clicking element 
+2020-07-30 16:12:31,824 INFO  [Log] Reading label 
+2020-07-30 16:12:33,888 INFO  [Log] Clicking element 
+2020-07-30 16:12:35,427 INFO  [Log] Reading label 
+2020-07-30 16:12:37,698 INFO  [Log] Clicking element 
+2020-07-30 16:12:39,891 INFO  [Log] Reading label 
+2020-07-30 16:12:39,907 ERROR [Log] assertion failed 
+2020-07-30 16:12:39,907 INFO  [Log] Closing browser 
+2020-07-30 16:20:43,951 INFO  [Log] Initilaising..  
+2020-07-30 16:20:43,952 INFO  [Log] Checking test run mode 
+2020-07-30 16:20:43,952 INFO  [Log] Starting test 
+2020-07-30 16:20:43,953 INFO  [Log] Opening browser 
+2020-07-30 16:20:50,902 INFO  [Log] Navigating to Url 
+2020-07-30 16:20:54,084 INFO  [Log] Initilaising..  
+2020-07-30 16:20:55,573 INFO  [Log] Typing in text 
+2020-07-30 16:20:57,838 INFO  [Log] Clicking element 
+2020-07-30 16:20:59,527 INFO  [Log] Reading label 
+2020-07-30 16:21:02,561 INFO  [Log] Clicking element 
+2020-07-30 16:21:03,753 INFO  [Log] Reading label 
+2020-07-30 16:21:05,842 INFO  [Log] Clicking element 
+2020-07-30 16:21:06,010 INFO  [Log] Reading label 
+2020-07-30 16:21:08,394 INFO  [Log] Clicking element 
+2020-07-30 16:21:37,215 INFO  [Log] Initilaising..  
+2020-07-30 16:21:37,216 INFO  [Log] Checking test run mode 
+2020-07-30 16:21:37,216 INFO  [Log] Starting test 
+2020-07-30 16:21:37,219 INFO  [Log] Opening browser 
+2020-07-30 16:21:44,180 INFO  [Log] Navigating to Url 
+2020-07-30 16:21:47,807 INFO  [Log] Initilaising..  
+2020-07-30 16:21:48,759 INFO  [Log] Typing in text 
+2020-07-30 16:21:51,882 INFO  [Log] Clicking element 
+2020-07-30 16:21:52,982 INFO  [Log] Reading label 
+2020-07-30 16:21:55,799 INFO  [Log] Clicking element 
+2020-07-30 16:21:56,849 INFO  [Log] Reading label 
+2020-07-30 16:21:58,942 INFO  [Log] Clicking element 
+2020-07-30 16:22:00,103 INFO  [Log] Reading label 
+2020-07-30 16:22:02,835 INFO  [Log] Clicking element 
+2020-07-30 16:22:05,028 INFO  [Log] Reading label 
+2020-07-30 16:22:05,042 ERROR [Log] assertion failed 
+2020-07-30 16:22:05,043 INFO  [Log] Closing browser 
+2020-07-30 16:22:56,679 INFO  [Log] Initilaising..  
+2020-07-30 16:22:56,679 INFO  [Log] Checking test run mode 
+2020-07-30 16:22:56,679 INFO  [Log] Starting test 
+2020-07-30 16:22:56,679 INFO  [Log] Opening browser 
+2020-07-30 16:23:03,671 INFO  [Log] Navigating to Url 
+2020-07-30 16:23:07,537 INFO  [Log] Initilaising..  
+2020-07-30 16:23:07,701 INFO  [Log] Typing in text 
+2020-07-30 16:23:11,551 INFO  [Log] Clicking element 
+2020-07-30 16:23:12,821 INFO  [Log] Reading label 
+2020-07-30 16:23:15,587 INFO  [Log] Clicking element 
+2020-07-30 16:23:16,281 INFO  [Log] Reading label 
+2020-07-30 16:23:26,917 INFO  [Log] Clicking element 
+2020-07-30 16:23:27,115 INFO  [Log] Reading label 
+2020-07-30 16:23:37,517 INFO  [Log] Clicking element 
+2020-07-30 16:23:39,527 INFO  [Log] Reading label 
+2020-07-30 16:23:39,540 ERROR [Log] assertion failed 
+2020-07-30 16:23:39,540 INFO  [Log] Closing browser 
+2020-07-30 16:24:41,424 INFO  [Log] Initilaising..  
+2020-07-30 16:24:41,424 INFO  [Log] Checking test run mode 
+2020-07-30 16:24:41,424 INFO  [Log] Starting test 
+2020-07-30 16:24:41,424 INFO  [Log] Opening browser 
+2020-07-30 16:24:48,436 INFO  [Log] Navigating to Url 
+2020-07-30 16:24:51,814 INFO  [Log] Initilaising..  
+2020-07-30 16:24:51,910 INFO  [Log] Typing in text 
+2020-07-30 16:24:54,133 INFO  [Log] Clicking element 
+2020-07-30 16:24:56,792 INFO  [Log] Reading label 
+2020-07-30 16:24:59,842 INFO  [Log] Clicking element 
+2020-07-30 16:25:00,848 INFO  [Log] Reading label 
+2020-07-30 16:25:10,955 INFO  [Log] Clicking element 
+2020-07-30 16:25:11,138 INFO  [Log] Reading label 
+2020-07-30 16:25:21,399 INFO  [Log] Clicking element 
+2020-07-30 16:25:23,037 INFO  [Log] Reading label 
+2020-07-30 16:25:23,052 ERROR [Log] assertion failed 
+2020-07-30 16:26:51,711 INFO  [Log] Initilaising..  
+2020-07-30 16:26:51,712 INFO  [Log] Checking test run mode 
+2020-07-30 16:26:51,712 INFO  [Log] Starting test 
+2020-07-30 16:26:51,714 INFO  [Log] Opening browser 
+2020-07-30 16:26:59,092 INFO  [Log] Navigating to Url 
+2020-07-30 16:27:02,207 INFO  [Log] Initilaising..  
+2020-07-30 16:27:02,901 INFO  [Log] Typing in text 
+2020-07-30 16:27:05,073 INFO  [Log] Clicking element 
+2020-07-30 16:27:05,289 INFO  [Log] Reading label 
+2020-07-30 16:27:09,849 INFO  [Log] Clicking element 
+2020-07-30 16:27:10,643 INFO  [Log] Reading label 
+2020-07-30 16:27:35,579 INFO  [Log] Initilaising..  
+2020-07-30 16:27:35,579 INFO  [Log] Checking test run mode 
+2020-07-30 16:27:35,579 INFO  [Log] Starting test 
+2020-07-30 16:27:35,579 INFO  [Log] Opening browser 
+2020-07-30 16:27:43,454 INFO  [Log] Navigating to Url 
+2020-07-30 16:27:46,300 INFO  [Log] Initilaising..  
+2020-07-30 16:27:47,831 INFO  [Log] Typing in text 
+2020-07-30 16:27:50,690 INFO  [Log] Clicking element 
+2020-07-30 16:27:51,025 INFO  [Log] Reading label 
+2020-07-30 16:27:55,131 INFO  [Log] Clicking element 
+2020-07-30 16:27:56,130 INFO  [Log] Reading label 
+2020-07-30 16:28:06,659 INFO  [Log] Clicking element 
+2020-07-30 16:28:06,825 INFO  [Log] Reading label 
+2020-07-30 16:28:17,153 INFO  [Log] Clicking element 
+2020-07-30 16:28:18,950 INFO  [Log] Reading label 
+2020-07-30 16:28:18,954 ERROR [Log] assertion failed 
+2020-07-30 16:32:07,613 INFO  [Log] Initilaising..  
+2020-07-30 16:32:07,613 INFO  [Log] Checking test run mode 
+2020-07-30 16:32:07,613 INFO  [Log] Starting test 
+2020-07-30 16:32:07,629 INFO  [Log] Opening browser 
+2020-07-30 16:32:14,535 INFO  [Log] Navigating to Url 
+2020-07-30 16:32:18,927 INFO  [Log] Initilaising..  
+2020-07-30 16:32:20,124 INFO  [Log] Typing in text 
+2020-07-30 16:32:23,643 INFO  [Log] Clicking element 
+2020-07-30 16:32:25,433 INFO  [Log] Reading label 
+2020-07-30 16:32:27,775 INFO  [Log] Clicking element 
+2020-07-30 16:32:28,763 INFO  [Log] Reading label 
+2020-07-30 16:32:39,113 INFO  [Log] Clicking element 
+2020-07-30 16:32:39,311 INFO  [Log] Reading label 
+2020-07-30 16:32:49,582 INFO  [Log] Clicking element 
+2020-07-30 16:32:51,500 INFO  [Log] Reading label 
+2020-07-30 16:32:51,503 ERROR [Log] assertion failed 
+2020-07-30 16:33:34,298 INFO  [Log] Initilaising..  
+2020-07-30 16:33:34,298 INFO  [Log] Checking test run mode 
+2020-07-30 16:33:34,314 INFO  [Log] Starting test 
+2020-07-30 16:33:34,314 INFO  [Log] Opening browser 
+2020-07-30 16:33:41,332 INFO  [Log] Navigating to Url 
+2020-07-30 16:33:44,335 INFO  [Log] Initilaising..  
+2020-07-30 16:33:45,681 INFO  [Log] Typing in text 
+2020-07-30 16:33:48,478 INFO  [Log] Clicking element 
+2020-07-30 16:33:50,016 INFO  [Log] Reading label 
+2020-07-30 16:33:52,673 INFO  [Log] Clicking element 
+2020-07-30 16:33:53,725 INFO  [Log] Reading label 
+2020-07-30 16:34:04,214 INFO  [Log] Clicking element 
+2020-07-30 17:40:27,859 INFO  [Log] Initilaising..  
+2020-07-30 17:40:27,860 INFO  [Log] Checking test run mode 
+2020-07-30 17:40:27,860 INFO  [Log] Starting test 
+2020-07-30 17:40:27,863 INFO  [Log] Opening browser 
+2020-07-30 17:40:34,984 INFO  [Log] Navigating to Url 
+2020-07-30 17:40:37,523 INFO  [Log] Initilaising..  
+2020-07-30 17:40:38,442 INFO  [Log] Typing in text 
+2020-07-30 17:40:40,617 INFO  [Log] Clicking element 
+2020-07-30 17:40:41,483 INFO  [Log] Reading label 
+2020-07-30 17:40:45,690 INFO  [Log] Clicking element 
+2020-07-30 17:52:00,705 INFO  [Log] Initilaising..  
+2020-07-30 17:52:00,707 INFO  [Log] Checking test run mode 
+2020-07-30 17:52:00,707 INFO  [Log] Starting test 
+2020-07-30 17:52:00,709 INFO  [Log] Opening browser 
+2020-07-30 17:52:08,621 INFO  [Log] Navigating to Url 
+2020-07-30 17:52:11,682 INFO  [Log] Initilaising..  
+2020-07-30 17:52:13,944 INFO  [Log] Typing in text 
+2020-07-30 17:52:19,189 INFO  [Log] Clicking element 
+2020-07-30 17:52:20,857 INFO  [Log] Reading label 
+2020-07-30 17:52:23,963 INFO  [Log] Clicking element 
+2020-07-30 17:58:32,091 INFO  [Log] Initilaising..  
+2020-07-30 17:58:32,093 INFO  [Log] Checking test run mode 
+2020-07-30 17:58:32,093 INFO  [Log] Starting test 
+2020-07-30 17:58:32,109 INFO  [Log] Opening browser 
+2020-07-30 17:58:40,338 INFO  [Log] Navigating to Url 
+2020-07-30 17:58:52,456 INFO  [Log] Initilaising..  
+2020-07-30 17:58:52,780 INFO  [Log] Typing in text 
+2020-07-30 17:58:54,986 INFO  [Log] Clicking element 
+2020-07-30 17:58:55,216 INFO  [Log] Reading label 
+2020-07-30 17:59:02,133 INFO  [Log] Clicking element 
+2020-07-30 18:01:06,980 INFO  [Log] Initilaising..  
+2020-07-30 18:01:06,982 INFO  [Log] Checking test run mode 
+2020-07-30 18:01:06,982 INFO  [Log] Starting test 
+2020-07-30 18:01:06,985 INFO  [Log] Opening browser 
+2020-07-30 18:01:16,587 INFO  [Log] Navigating to Url 
+2020-07-30 18:01:19,460 INFO  [Log] Initilaising..  
+2020-07-30 18:01:20,470 INFO  [Log] Typing in text 
+2020-07-30 18:01:24,539 INFO  [Log] Clicking element 
+2020-07-30 18:01:25,259 INFO  [Log] Reading label 
+2020-07-30 18:01:30,594 INFO  [Log] Clicking element 
+2020-07-30 18:01:31,541 INFO  [Log] Reading label 
+2020-07-30 18:01:47,231 INFO  [Log] Clicking element 
+2020-07-30 18:01:47,380 INFO  [Log] Clicking element 
+2020-07-30 18:01:50,373 INFO  [Log] Reading label 
+2020-07-30 18:01:50,397 ERROR [Log] assertion failed 
+2020-07-30 18:04:49,039 INFO  [Log] Initilaising..  
+2020-07-30 18:04:49,041 INFO  [Log] Checking test run mode 
+2020-07-30 18:04:49,041 INFO  [Log] Starting test 
+2020-07-30 18:04:49,044 INFO  [Log] Opening browser 
+2020-07-30 18:04:58,580 INFO  [Log] Navigating to Url 
+2020-07-30 18:05:01,297 INFO  [Log] Initilaising..  
+2020-07-30 18:05:02,639 INFO  [Log] Typing in text 
+2020-07-30 18:05:08,381 INFO  [Log] Clicking element 
+2020-07-30 18:05:10,765 INFO  [Log] Reading label 
+2020-07-30 18:05:13,282 INFO  [Log] Clicking element 
+2020-07-30 18:05:14,806 INFO  [Log] Reading label 
+2020-07-30 18:05:32,981 INFO  [Log] Clicking element 
+2020-07-30 18:05:33,541 INFO  [Log] Clicking element 
+2020-07-30 18:05:38,488 INFO  [Log] Reading label 
+2020-07-30 18:05:38,565 ERROR [Log] assertion failed 
+2020-07-30 18:07:33,420 INFO  [Log] Initilaising..  
+2020-07-30 18:07:33,422 INFO  [Log] Checking test run mode 
+2020-07-30 18:07:33,422 INFO  [Log] Starting test 
+2020-07-30 18:07:33,424 INFO  [Log] Opening browser 
+2020-07-30 18:07:44,163 INFO  [Log] Navigating to Url 
+2020-07-30 18:07:49,065 INFO  [Log] Initilaising..  
+2020-07-30 18:07:50,221 INFO  [Log] Typing in text 
+2020-07-30 18:07:53,854 INFO  [Log] Clicking element 
+2020-07-30 18:07:56,802 INFO  [Log] Reading label 
+2020-07-30 18:07:59,340 INFO  [Log] Clicking element 
+2020-07-30 18:08:02,165 INFO  [Log] Reading label 
+2020-07-30 18:08:21,249 INFO  [Log] Clicking element 
+2020-07-30 18:08:21,412 INFO  [Log] Clicking element 
+2020-07-30 18:08:24,694 INFO  [Log] FReading text input 
+2020-07-30 18:08:24,743 ERROR [Log] assertion failed 
+2020-07-30 18:16:32,603 INFO  [Log] Initilaising..  
+2020-07-30 18:16:32,605 INFO  [Log] Checking test run mode 
+2020-07-30 18:16:32,605 INFO  [Log] Starting test 
+2020-07-30 18:16:32,607 INFO  [Log] Opening browser 
+2020-07-30 18:16:42,909 INFO  [Log] Navigating to Url 
+2020-07-30 18:16:47,785 INFO  [Log] Initilaising..  
+2020-07-30 18:16:48,380 INFO  [Log] Typing in text 
+2020-07-30 18:16:51,573 INFO  [Log] Clicking element 
+2020-07-30 18:16:51,801 INFO  [Log] Reading label 
+2020-07-30 18:16:56,773 INFO  [Log] Clicking element 
+2020-07-30 18:16:57,510 INFO  [Log] Reading label 
+2020-07-30 18:17:13,308 INFO  [Log] Clicking element 
+2020-07-30 18:17:13,451 INFO  [Log] Clicking element 
+2020-07-30 18:17:16,614 INFO  [Log] Reading label 
+2020-07-30 18:17:16,810 ERROR [Log] assertion failed 
+2020-07-30 18:19:47,461 INFO  [Log] Initilaising..  
+2020-07-30 18:19:47,463 INFO  [Log] Checking test run mode 
+2020-07-30 18:19:47,463 INFO  [Log] Starting test 
+2020-07-30 18:19:47,465 INFO  [Log] Opening browser 
+2020-07-30 18:19:54,735 INFO  [Log] Navigating to Url 
+2020-07-30 18:19:57,380 INFO  [Log] Initilaising..  
+2020-07-30 18:19:58,168 INFO  [Log] Typing in text 
+2020-07-30 18:20:01,328 INFO  [Log] Clicking element 
+2020-07-30 18:20:01,717 INFO  [Log] Reading label 
+2020-07-30 18:20:05,543 INFO  [Log] Clicking element 
+2020-07-30 18:20:06,539 INFO  [Log] Reading label 
+2020-07-30 18:20:21,686 INFO  [Log] Clicking element 
+2020-07-30 18:20:21,819 INFO  [Log] Clicking element 
+2020-07-30 18:20:24,084 INFO  [Log] Reading label 
+2020-07-30 18:20:24,849 ERROR [Log] assertion failed 
+2020-07-30 19:30:04,486 INFO  [Log] Initilaising..  
+2020-07-30 19:30:04,487 INFO  [Log] Checking test run mode 
+2020-07-30 19:30:04,487 INFO  [Log] Starting test 
+2020-07-30 19:30:04,489 INFO  [Log] Opening browser 
+2020-07-30 19:30:12,313 INFO  [Log] Navigating to Url 
+2020-07-30 19:30:15,682 INFO  [Log] Initilaising..  
+2020-07-30 19:30:16,028 INFO  [Log] Typing in text 
+2020-07-30 19:30:19,021 INFO  [Log] Clicking element 
+2020-07-30 19:30:19,426 INFO  [Log] Reading label 
+2020-07-30 19:30:23,094 INFO  [Log] Clicking element 
+2020-07-30 19:30:24,351 INFO  [Log] Reading label 
+2020-07-30 19:30:39,497 INFO  [Log] Clicking element 
+2020-07-30 19:30:39,669 INFO  [Log] Clicking element 
+2020-07-30 19:30:42,734 INFO  [Log] Reading label 
+2020-07-30 19:30:52,858 ERROR [Log] assertion failed 
+2020-07-30 19:33:40,057 INFO  [Log] Initilaising..  
+2020-07-30 19:33:40,058 INFO  [Log] Checking test run mode 
+2020-07-30 19:33:40,058 INFO  [Log] Starting test 
+2020-07-30 19:33:40,061 INFO  [Log] Opening browser 
+2020-07-30 19:33:47,430 INFO  [Log] Navigating to Url 
+2020-07-30 19:33:51,019 INFO  [Log] Initilaising..  
+2020-07-30 19:33:52,744 INFO  [Log] Typing in text 
+2020-07-30 19:33:56,667 INFO  [Log] Clicking element 
+2020-07-30 19:33:56,865 INFO  [Log] Reading label 
+2020-07-30 19:34:00,558 INFO  [Log] Clicking element 
+2020-07-30 19:34:01,912 INFO  [Log] Reading label 
+2020-07-30 19:34:17,124 INFO  [Log] Clicking element 
+2020-07-30 19:34:17,269 INFO  [Log] Clicking element 
+2020-07-30 19:36:07,491 INFO  [Log] Initilaising..  
+2020-07-30 19:36:07,493 INFO  [Log] Checking test run mode 
+2020-07-30 19:36:07,493 INFO  [Log] Starting test 
+2020-07-30 19:36:07,496 INFO  [Log] Opening browser 
+2020-07-30 19:36:14,344 INFO  [Log] Navigating to Url 
+2020-07-30 19:36:17,052 INFO  [Log] Initilaising..  
+2020-07-30 19:36:17,316 INFO  [Log] Typing in text 
+2020-07-30 19:36:19,602 INFO  [Log] Clicking element 
+2020-07-30 19:36:21,531 INFO  [Log] Reading label 
+2020-07-30 19:36:24,552 INFO  [Log] Clicking element 
+2020-07-30 19:36:25,932 INFO  [Log] Reading label 
+2020-07-30 19:36:41,214 INFO  [Log] Clicking element 
+2020-07-30 19:36:41,319 INFO  [Log] Clicking element 
+2020-07-30 19:38:30,985 INFO  [Log] Initilaising..  
+2020-07-30 19:38:30,986 INFO  [Log] Checking test run mode 
+2020-07-30 19:38:30,986 INFO  [Log] Starting test 
+2020-07-30 19:38:30,988 INFO  [Log] Opening browser 
+2020-07-30 19:38:37,851 INFO  [Log] Navigating to Url 
+2020-07-30 19:38:40,327 INFO  [Log] Initilaising..  
+2020-07-30 19:38:41,498 INFO  [Log] Typing in text 
+2020-07-30 19:38:44,038 INFO  [Log] Clicking element 
+2020-07-30 19:38:45,210 INFO  [Log] Reading label 
+2020-07-30 19:38:47,962 INFO  [Log] Clicking element 
+2020-07-30 19:38:49,040 INFO  [Log] Reading label 
+2020-07-30 19:39:04,188 INFO  [Log] Clicking element 
+2020-07-30 19:39:04,300 INFO  [Log] Clicking element 
+2020-07-30 19:42:30,311 INFO  [Log] Initilaising..  
+2020-07-30 19:42:30,312 INFO  [Log] Checking test run mode 
+2020-07-30 19:42:30,312 INFO  [Log] Starting test 
+2020-07-30 19:42:30,314 INFO  [Log] Opening browser 
+2020-07-30 19:42:37,292 INFO  [Log] Navigating to Url 
+2020-07-30 19:42:39,560 INFO  [Log] Initilaising..  
+2020-07-30 19:42:40,207 INFO  [Log] Typing in text 
+2020-07-30 19:42:42,376 INFO  [Log] Clicking element 
+2020-07-30 19:42:43,697 INFO  [Log] Reading label 
+2020-07-30 19:42:47,433 INFO  [Log] Clicking element 
+2020-07-30 19:42:48,948 INFO  [Log] Reading label 
+2020-07-30 19:43:04,504 INFO  [Log] Clicking element 
+2020-07-30 19:43:04,624 INFO  [Log] Clicking element 
+2020-07-30 19:43:06,781 INFO  [Log] Reading label 
+2020-07-30 19:43:06,784 ERROR [Log] assertion failed 
+2020-07-30 19:48:30,529 INFO  [Log] Initilaising..  
+2020-07-30 19:48:30,530 INFO  [Log] Checking test run mode 
+2020-07-30 19:48:30,531 INFO  [Log] Starting test 
+2020-07-30 19:48:30,533 INFO  [Log] Opening browser 
+2020-07-30 19:48:37,530 INFO  [Log] Navigating to Url 
+2020-07-30 19:48:39,648 INFO  [Log] Initilaising..  
+2020-07-30 19:48:40,233 INFO  [Log] Typing in text 
+2020-07-30 19:48:42,495 INFO  [Log] Clicking element 
+2020-07-30 19:48:42,888 INFO  [Log] Reading label 
+2020-07-30 19:48:46,660 INFO  [Log] Clicking element 
+2020-07-30 19:48:48,059 INFO  [Log] Reading label 
+2020-07-30 19:49:04,643 INFO  [Log] Clicking element 
+2020-07-30 19:49:04,803 INFO  [Log] Clicking element 
+2020-07-30 19:49:06,843 INFO  [Log] Reading label 
+2020-07-30 19:49:07,054 ERROR [Log] assertion failed 
+2020-07-30 19:50:05,312 INFO  [Log] Initilaising..  
+2020-07-30 19:50:05,313 INFO  [Log] Checking test run mode 
+2020-07-30 19:50:05,314 INFO  [Log] Starting test 
+2020-07-30 19:50:05,315 INFO  [Log] Opening browser 
+2020-07-30 19:50:12,430 INFO  [Log] Navigating to Url 
+2020-07-30 19:50:14,895 INFO  [Log] Initilaising..  
+2020-07-30 19:50:16,045 INFO  [Log] Typing in text 
+2020-07-30 19:50:18,221 INFO  [Log] Clicking element 
+2020-07-30 19:50:18,440 INFO  [Log] Reading label 
+2020-07-30 19:50:22,492 INFO  [Log] Clicking element 
+2020-07-30 19:50:23,219 INFO  [Log] Reading label 
+2020-07-30 19:50:38,803 INFO  [Log] Clicking element 
+2020-07-30 19:50:38,907 INFO  [Log] Clicking element 
+2020-07-30 19:50:41,099 INFO  [Log] Reading label 
+2020-07-30 19:50:41,300 ERROR [Log] assertion failed 
+2020-07-30 19:52:26,267 INFO  [Log] Initilaising..  
+2020-07-30 19:52:26,268 INFO  [Log] Checking test run mode 
+2020-07-30 19:52:26,268 INFO  [Log] Starting test 
+2020-07-30 19:52:26,269 INFO  [Log] Opening browser 
+2020-07-30 19:52:33,140 INFO  [Log] Navigating to Url 
+2020-07-30 19:52:35,058 INFO  [Log] Initilaising..  
+2020-07-30 19:52:36,095 INFO  [Log] Typing in text 
+2020-07-30 19:52:38,283 INFO  [Log] Clicking element 
+2020-07-30 19:52:38,638 INFO  [Log] Reading label 
+2020-07-30 19:52:43,079 INFO  [Log] Clicking element 
+2020-07-30 19:52:44,258 INFO  [Log] Reading label 
+2020-07-30 19:52:59,447 INFO  [Log] Clicking element 
+2020-07-30 19:52:59,569 INFO  [Log] Clicking element 
+2020-07-30 19:53:01,361 INFO  [Log] Reading label 
+2020-07-30 19:53:01,454 INFO  [Log] Sign in assertion passed 
+2020-07-30 19:55:03,586 INFO  [Log] Initilaising..  
+2020-07-30 19:55:03,588 INFO  [Log] Checking test run mode 
+2020-07-30 19:55:03,588 INFO  [Log] Starting test 
+2020-07-30 19:55:03,590 INFO  [Log] Opening browser 
+2020-07-30 19:55:10,410 INFO  [Log] Navigating to Url 
+2020-07-30 19:55:15,598 INFO  [Log] Initilaising..  
+2020-07-30 19:55:17,186 INFO  [Log] Typing in text 
+2020-07-30 19:55:20,964 INFO  [Log] Clicking element 
+2020-07-30 19:55:21,955 INFO  [Log] Reading label 
+2020-07-30 19:55:24,896 INFO  [Log] Clicking element 
+2020-07-30 19:55:26,050 INFO  [Log] Reading label 
+2020-07-30 19:55:41,228 INFO  [Log] Clicking element 
+2020-07-30 19:55:41,331 INFO  [Log] Clicking element 
+2020-07-30 19:55:43,764 INFO  [Log] Reading label 
+2020-07-30 19:55:43,901 ERROR [Log] assertion failed 
+2020-07-30 19:55:43,903 INFO  [Log] Closing browser 
+2020-07-30 19:58:53,241 INFO  [Log] Initilaising..  
+2020-07-30 19:58:53,241 INFO  [Log] Checking test run mode 
+2020-07-30 19:58:53,241 INFO  [Log] Starting test 
+2020-07-30 19:58:53,241 INFO  [Log] Opening browser 
+2020-07-30 19:59:00,137 INFO  [Log] Navigating to Url 
+2020-07-30 19:59:02,423 INFO  [Log] Initilaising..  
+2020-07-30 19:59:04,059 INFO  [Log] Typing in text 
+2020-07-30 19:59:06,471 INFO  [Log] Clicking element 
+2020-07-30 19:59:07,668 INFO  [Log] Reading label 
+2020-07-30 19:59:10,673 INFO  [Log] Clicking element 
+2020-07-30 19:59:11,468 INFO  [Log] Reading label 
+2020-07-30 19:59:27,969 INFO  [Log] Clicking element 
+2020-07-30 19:59:28,127 INFO  [Log] Clicking element 
+2020-07-30 19:59:30,958 INFO  [Log] Reading label 
+2020-07-30 19:59:31,139 ERROR [Log] assertion failed 
+2020-07-30 19:59:31,139 INFO  [Log] Closing browser 
+2020-07-30 20:01:05,569 INFO  [Log] Initilaising..  
+2020-07-30 20:01:05,569 INFO  [Log] Checking test run mode 
+2020-07-30 20:01:05,569 INFO  [Log] Starting test 
+2020-07-30 20:01:05,585 INFO  [Log] Opening browser 
+2020-07-30 20:01:12,721 INFO  [Log] Navigating to Url 
+2020-07-30 20:01:15,036 INFO  [Log] Initilaising..  
+2020-07-30 20:01:18,340 INFO  [Log] Typing in text 
+2020-07-30 20:01:20,497 INFO  [Log] Clicking element 
+2020-07-30 20:01:21,440 INFO  [Log] Reading label 
+2020-07-30 20:01:24,145 INFO  [Log] Clicking element 
+2020-07-30 20:01:25,270 INFO  [Log] Reading label 
+2020-07-30 20:01:40,404 INFO  [Log] Clicking element 
+2020-07-30 20:01:40,575 INFO  [Log] Clicking element 
+2020-07-30 20:01:43,091 INFO  [Log] Reading label 
+2020-07-30 20:01:43,192 ERROR [Log] assertion failed 
+2020-07-30 20:01:43,192 INFO  [Log] Closing browser 
+2020-07-30 20:03:20,987 INFO  [Log] Initilaising..  
+2020-07-30 20:03:20,987 INFO  [Log] Checking test run mode 
+2020-07-30 20:03:20,987 INFO  [Log] Starting test 
+2020-07-30 20:03:20,987 INFO  [Log] Opening browser 
+2020-07-30 20:03:27,848 INFO  [Log] Navigating to Url 
+2020-07-30 20:03:30,109 INFO  [Log] Initilaising..  
+2020-07-30 20:03:31,900 INFO  [Log] Typing in text 
+2020-07-30 20:03:34,089 INFO  [Log] Clicking element 
+2020-07-30 20:03:35,093 INFO  [Log] Reading label 
+2020-07-30 20:03:38,004 INFO  [Log] Clicking element 
+2020-07-30 20:03:39,075 INFO  [Log] Reading label 
+2020-07-30 20:03:54,250 INFO  [Log] Clicking element 
+2020-07-30 20:03:54,347 INFO  [Log] Clicking element 
+2020-07-30 20:03:56,479 INFO  [Log] Reading label 
+2020-07-30 20:03:56,604 ERROR [Log] assertion failed 
+2020-07-30 20:03:56,604 INFO  [Log] Closing browser 
+2020-07-30 20:08:17,634 INFO  [Log] Initilaising..  
+2020-07-30 20:08:17,634 INFO  [Log] Checking test run mode 
+2020-07-30 20:08:17,634 INFO  [Log] Starting test 
+2020-07-30 20:08:17,634 INFO  [Log] Opening browser 
+2020-07-30 20:08:24,505 INFO  [Log] Navigating to Url 
+2020-07-30 20:08:26,690 INFO  [Log] Initilaising..  
+2020-07-30 20:08:27,329 INFO  [Log] Typing in text 
+2020-07-30 20:08:29,492 INFO  [Log] Clicking element 
+2020-07-30 20:08:30,379 INFO  [Log] Reading label 
+2020-07-30 20:08:33,545 INFO  [Log] Clicking element 
+2020-07-30 20:08:34,280 INFO  [Log] Reading label 
+2020-07-30 20:08:49,836 INFO  [Log] Clicking element 
+2020-07-30 20:08:49,974 INFO  [Log] Clicking element 
+2020-07-30 20:08:51,809 INFO  [Log] Reading label 
+2020-07-30 20:08:51,937 ERROR [Log] assertion failed 
+2020-07-30 20:08:51,937 INFO  [Log] Closing browser 
+2020-07-30 20:14:30,932 INFO  [Log] Initilaising..  
+2020-07-30 20:14:30,936 INFO  [Log] Checking test run mode 
+2020-07-30 20:14:30,936 INFO  [Log] Starting test 
+2020-07-30 20:14:30,940 INFO  [Log] Opening browser 
+2020-07-30 20:14:37,903 INFO  [Log] Navigating to Url 
+2020-07-30 20:14:39,834 INFO  [Log] Initilaising..  
+2020-07-30 20:14:41,799 INFO  [Log] Typing in text 
+2020-07-30 20:14:43,985 INFO  [Log] Clicking element 
+2020-07-30 20:14:45,198 INFO  [Log] Reading label 
+2020-07-30 20:14:48,053 INFO  [Log] Clicking element 
+2020-07-30 20:14:49,384 INFO  [Log] Reading label 
+2020-07-30 20:15:05,473 INFO  [Log] Clicking element 
+2020-07-30 20:15:05,581 INFO  [Log] Clicking element 
+2020-07-30 20:15:07,413 INFO  [Log] Reading label 
+2020-07-30 20:15:07,513 ERROR [Log] assertion failed 
+2020-07-30 20:15:07,513 INFO  [Log] Closing browser 
+2020-07-30 20:17:03,641 INFO  [Log] Initilaising..  
+2020-07-30 20:17:03,641 INFO  [Log] Checking test run mode 
+2020-07-30 20:17:03,641 INFO  [Log] Starting test 
+2020-07-30 20:17:03,645 INFO  [Log] Opening browser 
+2020-07-30 20:17:10,436 INFO  [Log] Navigating to Url 
+2020-07-30 20:17:12,828 INFO  [Log] Initilaising..  
+2020-07-30 20:17:15,291 INFO  [Log] Typing in text 
+2020-07-30 20:17:17,444 INFO  [Log] Clicking element 
+2020-07-30 20:17:18,902 INFO  [Log] Reading label 
+2020-07-30 20:17:21,117 INFO  [Log] Clicking element 
+2020-07-30 20:17:21,922 INFO  [Log] Reading label 
+2020-07-30 20:17:37,671 INFO  [Log] Clicking element 
+2020-07-30 20:17:37,782 INFO  [Log] Clicking element 
+2020-07-30 20:17:42,026 INFO  [Log] Reading label 
+2020-07-30 20:17:42,149 INFO  [Log] Sign in assertion passed 
+2020-07-30 20:17:42,149 INFO  [Log] Closing browser 
+2020-07-30 20:22:34,227 INFO  [Log] Initilaising..  
+2020-07-30 20:22:34,227 INFO  [Log] Checking test run mode 
+2020-07-30 20:22:34,227 INFO  [Log] Starting test 
+2020-07-30 20:22:34,227 INFO  [Log] Opening browser 
+2020-07-30 20:22:41,027 INFO  [Log] Navigating to Url 
+2020-07-30 20:22:43,247 INFO  [Log] Initilaising..  
+2020-07-30 20:22:44,561 INFO  [Log] Typing in text 
+2020-07-30 20:22:47,344 INFO  [Log] Clicking element 
+2020-07-30 20:22:49,381 INFO  [Log] Reading label 
+2020-07-30 20:22:51,582 INFO  [Log] Clicking element 
+2020-07-30 20:22:52,753 INFO  [Log] Reading label 
+2020-07-30 20:23:07,879 INFO  [Log] Clicking element 
+2020-07-30 20:23:07,994 INFO  [Log] Clicking element 
+2020-07-30 20:23:10,278 INFO  [Log] Reading label 
+2020-07-30 20:23:10,396 ERROR [Log] assertion failed 
+2020-07-30 20:23:10,396 INFO  [Log] Closing browser 
+2020-07-30 20:24:10,615 INFO  [Log] Initilaising..  
+2020-07-30 20:24:10,615 INFO  [Log] Checking test run mode 
+2020-07-30 20:24:10,615 INFO  [Log] Starting test 
+2020-07-30 20:24:10,615 INFO  [Log] Opening browser 
+2020-07-30 20:24:17,382 INFO  [Log] Navigating to Url 
+2020-07-30 20:24:19,494 INFO  [Log] Initilaising..  
+2020-07-30 20:24:20,677 INFO  [Log] Typing in text 
+2020-07-30 20:24:23,325 INFO  [Log] Clicking element 
+2020-07-30 20:24:24,872 INFO  [Log] Reading label 
+2020-07-30 20:24:27,760 INFO  [Log] Clicking element 
+2020-07-30 20:24:29,745 INFO  [Log] Reading label 
+2020-07-30 20:24:45,885 INFO  [Log] Clicking element 
+2020-07-30 20:24:46,024 INFO  [Log] Clicking element 
+2020-07-30 20:24:48,123 INFO  [Log] Reading label 
+2020-07-30 20:24:48,265 ERROR [Log] assertion failed 
+2020-07-30 20:24:48,265 INFO  [Log] Closing browser 
+2020-07-30 20:25:42,908 INFO  [Log] Initilaising..  
+2020-07-30 20:25:42,908 INFO  [Log] Checking test run mode 
+2020-07-30 20:25:42,908 INFO  [Log] Starting test 
+2020-07-30 20:25:42,908 INFO  [Log] Opening browser 
+2020-07-30 20:25:49,825 INFO  [Log] Navigating to Url 
+2020-07-30 20:25:51,702 INFO  [Log] Initilaising..  
+2020-07-30 20:25:52,573 INFO  [Log] Typing in text 
+2020-07-30 20:25:54,714 INFO  [Log] Clicking element 
+2020-07-30 20:25:55,313 INFO  [Log] Reading label 
+2020-07-30 20:25:58,952 INFO  [Log] Clicking element 
+2020-07-30 20:26:00,122 INFO  [Log] Reading label 
+2020-07-30 20:26:15,258 INFO  [Log] Clicking element 
+2020-07-30 20:26:15,374 INFO  [Log] Clicking element 
+2020-07-30 20:26:19,058 INFO  [Log] Reading label 
+2020-07-30 20:26:19,270 INFO  [Log] Sign in assertion passed 
+2020-07-30 20:26:19,270 INFO  [Log] Closing browser 
+2020-07-30 20:27:20,922 INFO  [Log] Initilaising..  
+2020-07-30 20:27:20,922 INFO  [Log] Checking test run mode 
+2020-07-30 20:27:20,922 INFO  [Log] Starting test 
+2020-07-30 20:27:20,922 INFO  [Log] Opening browser 
+2020-07-30 20:27:27,779 INFO  [Log] Navigating to Url 
+2020-07-30 20:27:30,104 INFO  [Log] Initilaising..  
+2020-07-30 20:27:33,136 INFO  [Log] Typing in text 
+2020-07-30 20:27:35,552 INFO  [Log] Clicking element 
+2020-07-30 20:27:36,930 INFO  [Log] Reading label 
+2020-07-30 20:27:39,778 INFO  [Log] Clicking element 
+2020-07-30 20:27:40,993 INFO  [Log] Reading label 
+2020-07-30 20:27:56,157 INFO  [Log] Clicking element 
+2020-07-30 20:27:56,269 INFO  [Log] Clicking element 
+2020-07-30 20:28:05,230 INFO  [Log] Reading label 
+2020-07-30 20:28:05,379 INFO  [Log] Sign in assertion passed 
+2020-07-30 20:28:05,379 INFO  [Log] Closing browser 
+2020-07-30 20:28:51,068 INFO  [Log] Initilaising..  
+2020-07-30 20:28:51,068 INFO  [Log] Checking test run mode 
+2020-07-30 20:28:51,068 INFO  [Log] Starting test 
+2020-07-30 20:28:51,068 INFO  [Log] Opening browser 
+2020-07-30 20:28:57,979 INFO  [Log] Navigating to Url 
+2020-07-30 20:29:00,071 INFO  [Log] Initilaising..  
+2020-07-30 20:29:00,594 INFO  [Log] Typing in text 
+2020-07-30 20:29:02,867 INFO  [Log] Clicking element 
+2020-07-30 20:29:03,425 INFO  [Log] Reading label 
+2020-07-30 20:29:07,150 INFO  [Log] Clicking element 
+2020-07-30 20:29:08,273 INFO  [Log] Reading label 
+2020-07-30 20:29:23,440 INFO  [Log] Clicking element 
+2020-07-30 20:29:23,564 INFO  [Log] Clicking element 
+2020-07-30 20:29:31,740 INFO  [Log] Reading label 
+2020-07-30 20:29:31,900 INFO  [Log] Sign in assertion passed 
+2020-07-30 20:29:31,900 INFO  [Log] Closing browser 
+2020-07-31 14:49:08,827 INFO  [Log] Initilaising..  
+2020-07-31 14:49:08,827 INFO  [Log] Checking test run mode 
+2020-07-31 14:49:08,827 INFO  [Log] Starting test 
+2020-07-31 14:49:08,827 INFO  [Log] Opening browser 
+2020-07-31 14:49:17,679 INFO  [Log] Navigating to Url 
+2020-07-31 14:49:22,518 INFO  [Log] Initilaising..  
+2020-07-31 14:49:22,930 INFO  [Log] Typing in text 
+2020-07-31 14:49:25,139 INFO  [Log] Clicking element 
+2020-07-31 14:49:25,315 INFO  [Log] Reading label 
+2020-07-31 14:49:30,515 INFO  [Log] Clicking element 
+2020-07-31 14:49:31,103 INFO  [Log] Reading label 
+2020-07-31 14:49:47,633 INFO  [Log] Clicking element 
+2020-07-31 14:51:47,046 INFO  [Log] Initilaising..  
+2020-07-31 14:51:47,046 INFO  [Log] Checking test run mode 
+2020-07-31 14:51:47,046 INFO  [Log] Starting test 
+2020-07-31 14:51:47,046 INFO  [Log] Opening browser 
+2020-07-31 14:51:54,523 INFO  [Log] Navigating to Url 
+2020-07-31 14:51:58,104 INFO  [Log] Initilaising..  
+2020-07-31 14:51:58,543 INFO  [Log] Typing in text 
+2020-07-31 14:52:00,772 INFO  [Log] Clicking element 
+2020-07-31 14:52:02,518 INFO  [Log] Reading label 
+2020-07-31 14:52:05,716 INFO  [Log] Clicking element 
+2020-07-31 14:52:06,688 INFO  [Log] Reading label 
+2020-07-31 14:52:21,868 INFO  [Log] Clicking element 
+2020-07-31 14:54:42,300 INFO  [Log] Initilaising..  
+2020-07-31 14:54:42,300 INFO  [Log] Checking test run mode 
+2020-07-31 14:54:42,300 INFO  [Log] Starting test 
+2020-07-31 14:54:42,300 INFO  [Log] Opening browser 
+2020-07-31 14:54:49,308 INFO  [Log] Navigating to Url 
+2020-07-31 14:54:51,653 INFO  [Log] Initilaising..  
+2020-07-31 14:54:52,897 INFO  [Log] Typing in text 
+2020-07-31 14:54:55,055 INFO  [Log] Clicking element 
+2020-07-31 14:54:55,465 INFO  [Log] Reading label 
+2020-07-31 14:54:59,593 INFO  [Log] Clicking element 
+2020-07-31 14:55:00,835 INFO  [Log] Reading label 
+2020-07-31 14:55:16,836 INFO  [Log] Clicking element 
+2020-07-31 14:55:16,952 INFO  [Log] Clicking element 
+2020-07-31 14:55:24,054 INFO  [Log] Reading label 
+2020-07-31 14:55:24,136 INFO  [Log] Sign in assertion passed 
+2020-07-31 14:55:24,136 INFO  [Log] Closing browser 
+2020-07-31 16:46:59,127 INFO  [Log] Initilaising..  
+2020-07-31 16:46:59,135 INFO  [Log] Checking test run mode 
+2020-07-31 16:46:59,135 INFO  [Log] Starting test 
+2020-07-31 16:46:59,135 INFO  [Log] Opening browser 
+2020-07-31 16:47:06,272 INFO  [Log] Navigating to Url 
+2020-07-31 16:47:09,791 INFO  [Log] Initilaising..  
+2020-07-31 16:47:10,608 INFO  [Log] Typing in text 
+2020-07-31 16:47:13,182 INFO  [Log] Clicking element 
+2020-07-31 16:47:14,413 INFO  [Log] Reading label 
+2020-07-31 16:47:17,130 INFO  [Log] Clicking element 
+2020-07-31 16:47:18,019 INFO  [Log] Reading label 
+2020-07-31 16:47:33,609 INFO  [Log] Clicking element 
+2020-07-31 16:47:33,750 INFO  [Log] Clicking element 
+2020-07-31 16:47:40,852 INFO  [Log] Reading label 
+2020-07-31 16:47:40,916 INFO  [Log] Sign in assertion passed 
+2020-07-31 16:47:40,916 INFO  [Log] Closing browser 
+2020-07-31 18:14:56,215 INFO  [Log] Initilaising..  
+2020-07-31 18:14:56,217 INFO  [Log] Checking test run mode 
+2020-07-31 18:14:56,217 INFO  [Log] Starting test 
+2020-07-31 18:14:56,220 INFO  [Log] Opening browser 
+2020-07-31 18:15:03,801 INFO  [Log] Navigating to Url 
+2020-07-31 18:15:06,520 INFO  [Log] Initilaising..  
+2020-07-31 18:15:07,170 INFO  [Log] Typing in text 
+2020-07-31 18:15:09,410 INFO  [Log] Clicking element 
+2020-07-31 18:15:11,770 INFO  [Log] Reading label 
+2020-07-31 18:15:16,195 INFO  [Log] Clicking element 
+2020-07-31 18:15:20,494 INFO  [Log] Reading label 
+2020-07-31 18:15:36,743 INFO  [Log] Clicking element 
+2020-07-31 18:15:36,883 INFO  [Log] Clicking element 
+2020-07-31 18:15:44,194 INFO  [Log] Reading label 
+2020-07-31 18:15:44,311 INFO  [Log] Sign in assertion passed 
+2020-07-31 18:15:44,311 INFO  [Log] Closing browser 
